@@ -1,0 +1,4 @@
+rootProject.name = "DialogWithDotsIndicator"
+include ':app'
+include ':sample'
+include ':library'
